@@ -32,3 +32,20 @@ export const checkUsernameExists = async (first_name, last_name) => {
   const user = await User.findOne({ first_name, last_name });
   return !!user;
 };
+
+//check the mood based on tokens 
+export function detectMood(text) {
+    const words = text.toLowerCase().split(/\s+/);
+    const detectedMoods = new Set(); // use Set to avoid duplicates
+  
+    for (const [mood, keywords] of Object.entries(moodMap)) {
+      for (const word of words) {
+        if (keywords.includes(word)) {
+          detectedMoods.add(mood);
+        }
+      }
+    }
+  
+    return Array.from(detectedMoods); // return as array
+  }
+  
