@@ -1,0 +1,9 @@
+{
+  "happy": "sad",
+  "sad": "happy",
+  "angry": "calm",
+  "relaxed": "anxious",
+  "romantic": "lonely",
+  "excited": "tired",
+  "anxious": "relaxed"
+}

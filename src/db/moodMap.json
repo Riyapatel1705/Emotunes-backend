@@ -1,0 +1,11 @@
+{
+  "happy": ["joy", "excited", "awesome", "grateful", "smile","happy","delighted","pleased","blissful","glad", "not sad","good"],
+  "sad": ["lonely", "depressed", "crying", "upset", "down","sad","miserable","dejected","disappointed","regretful","not happy","unhappy","bad","not good","hopeless"],
+  "angry": ["furious", "mad", "annoyed", "rage","angry","irritated","resentful"],
+  "anxious": ["nervous", "worried", "tense", "panicked","anxious","stressed","not relaxed","anxiety","tense","not calm"],
+  "calm": ["peaceful", "relaxed", "chill", "zen","calm","not anxious","not stressed","not tensed"],
+  "energetic": ["hyped", "pumped", "energized", "motivated","energetic","not calm","not anxious","not stressed", "not tensed"],
+  "romantic": ["love", "romance", "affection", "passion", "sweetheart","romantic"],
+  "motivation": ["inspired", "driven", "ambitious", "focus", "grind","motivation","motivational","motivated"],
+  "travel": ["road trip", "wanderlust", "explore", "adventure", "journey", "getaway","travel"]
+}
