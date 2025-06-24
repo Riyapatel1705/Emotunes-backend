@@ -90,8 +90,9 @@ export const suggestSongsByMood = async (req, res) => {
         params: {
           q: query,
           type: "track",
-          limit: 50,
-          market: "IN"
+          limit: req.query.limit || 10,
+          offset: req.query.offset || 0
+          ,market: "IN"
         }
       });
   
@@ -197,7 +198,8 @@ if (
         params: {
           q: finalQuery,
           type: "track",
-          limit: 50,
+          limit: req.query.limit || 10,
+        offset: req.query.offset || 0,
           market: "IN"
         }
       });
@@ -248,7 +250,8 @@ if (
         params: {
           q: randomQuery,
           type: "track",
-          limit: 10,
+          limit: req.query.limit || 10,
+          offset: req.query.offset || 0,
           market: "IN"
         }
       });

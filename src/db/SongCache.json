@@ -1,602 +1,4 @@
 {
-  "sad": {
-    "count": 2,
-    "tracks": [
-      {
-        "name": "Let It Ring",
-        "artist": "Bangers Only",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c16493f5db88278b3e90c2dc",
-        "spotifyUrl": "https://open.spotify.com/track/3BcF8GY1yFdUcszcr2voQ6"
-      },
-      {
-        "name": "Uska Hi Banana (From \"1920 Evil Returns\")",
-        "artist": "Arijit Singh",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c486f7fc6299f158d632e613",
-        "spotifyUrl": "https://open.spotify.com/track/3h6Xvd0lISog6GxTk4X6MK"
-      },
-      {
-        "name": "Let It Ring",
-        "artist": "Bangers Only",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27344ff3b4fd8c8ceceb54a4929",
-        "spotifyUrl": "https://open.spotify.com/track/7dqagHzpQG2Q83ebCIYjEx"
-      },
-      {
-        "name": "Jo Tu Na Mila",
-        "artist": "Asim Azhar",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e50a6d11c72c3c11c134e5a0",
-        "spotifyUrl": "https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS"
-      },
-      {
-        "name": "FATHER FORGIVE ME",
-        "artist": "k.xxiv",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273ac3b476bef323cce655594f5",
-        "spotifyUrl": "https://open.spotify.com/track/5YQWN366ZKJzFljJegZGml"
-      },
-      {
-        "name": "Baatein Ye Kabhi Na - Male",
-        "artist": "Jeet Gannguli",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738d07544fddf5b7d9a1e41554",
-        "spotifyUrl": "https://open.spotify.com/track/0PxMHdQ6bSz9q0eJj3kJzb"
-      },
-      {
-        "name": "You Don't Have To Cry",
-        "artist": "Ms. Dynamite",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739f833600612e0389d0cb13c8",
-        "spotifyUrl": "https://open.spotify.com/track/4KYv46pm2eRgrsjhjpnW1a"
-      },
-      {
-        "name": "Aaj Bhi 2",
-        "artist": "Vishal Mishra",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b08e3ff7fa015f2a23dd0c85",
-        "spotifyUrl": "https://open.spotify.com/track/5Swyv8euhHEJu57t5qbGUs"
-      },
-      {
-        "name": "You Don't Have To Cry",
-        "artist": "Ms. Dynamite",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273048ba16a363b2c5be656cfd2",
-        "spotifyUrl": "https://open.spotify.com/track/6uLYBPXw7sW9RRAzZNA0Cl"
-      },
-      {
-        "name": "Hawayein (From \"Jab Harry Met Sejal\")",
-        "artist": "Pritam",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2730f29b052ea18eb757ec7ca9a",
-        "spotifyUrl": "https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt"
-      },
-      {
-        "name": "Nanchaku",
-        "artist": "Seedhe Maut",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d65e2670b7176415b9d88a59",
-        "spotifyUrl": "https://open.spotify.com/track/6btegcu44HqquqArljhFxu"
-      },
-      {
-        "name": "Aashiqui (The Love Theme)",
-        "artist": "Mithoon",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736404721c1943d5069f0805f3",
-        "spotifyUrl": "https://open.spotify.com/track/0TEZDqtGjqPwcaFx3Mzpbz"
-      },
-      {
-        "name": "Talk to Me",
-        "artist": "Zaran",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a5659f76920bf23b81972488",
-        "spotifyUrl": "https://open.spotify.com/track/51gF1Xsn2wSg3ZF1j9yn26"
-      },
-      {
-        "name": "Breakup Mashup Hindi - Slowed And Reverb - Lofi Mix",
-        "artist": "DJ Sav",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735c6816ffac32f5eb56a0eca9",
-        "spotifyUrl": "https://open.spotify.com/track/0reKX8EHN23iZVyIbarzeb"
-      },
-      {
-        "name": "Cose della vita (Can't Stop Thinking of You) (feat. Tina Turner)",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273169cfbf509632deffefcc86e",
-        "spotifyUrl": "https://open.spotify.com/track/63RAhyfI3l2612x8q53BOh"
-      },
-      {
-        "name": "Aaj Bhi 2",
-        "artist": "Vishal Mishra",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273241be1d3cd552b3eb313427f",
-        "spotifyUrl": "https://open.spotify.com/track/16kUphL69BBLbrpl4bPXiB"
-      },
-      {
-        "name": "Cose Della Vita (with Tina Turner)",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273ac281a53e3ac54e47f74ffb2",
-        "spotifyUrl": "https://open.spotify.com/track/57jHWA5ZMvVsQXt7rbCF5C"
-      },
-      {
-        "name": "Tune Jo Na Kaha",
-        "artist": "Sohan Rahman",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2733a7c88b450e9799ad92e23af",
-        "spotifyUrl": "https://open.spotify.com/track/4D4CwN6yyaEx10xjwhK80D"
-      },
-      {
-        "name": "Cose Della Vita (Can't Stop Thinking Of You) - live",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732b75a60300a7c31fd9150f90",
-        "spotifyUrl": "https://open.spotify.com/track/3TVdLh6YNduKsRxqExDz4Q"
-      },
-      {
-        "name": "Aaya Phir Vo Nazar Aise",
-        "artist": "chronically online",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273be095cf31d6e416cbe42132f",
-        "spotifyUrl": "https://open.spotify.com/track/1aQwLJxGJW3dTARLioLFK3"
-      },
-      {
-        "name": "Cose della vita (Can't Stop Thinking of You) (feat. Tina Turner)",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c9dbe46708807f2a5698dbfb",
-        "spotifyUrl": "https://open.spotify.com/track/4Tl2vdcFInroYonp4lIyAa"
-      },
-      {
-        "name": "K.Y.U",
-        "artist": "KALAM INK",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732e08bcd17d3a530cc2d5bda5",
-        "spotifyUrl": "https://open.spotify.com/track/6mWYuZLIdw6uiH4mbjlEJ2"
-      },
-      {
-        "name": "Cose Della Vita (with Tina Turner)",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27362fdb5c38ebe34590e430e46",
-        "spotifyUrl": "https://open.spotify.com/track/2bJtJv5NGkYUFP6prU3WSg"
-      },
-      {
-        "name": "Aadat - Lofi",
-        "artist": "IAMPRATHEEK",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273db88fc06be950a5fc1d5b9db",
-        "spotifyUrl": "https://open.spotify.com/track/6Ec9hKcl0I0mQnbP41INEH"
-      },
-      {
-        "name": "Ritalin",
-        "artist": "Bourgeois & Maurice",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27326daa8e6559cafb1dbf345b8",
-        "spotifyUrl": "https://open.spotify.com/track/6pNNiNODNFleSrfNHVKMD1"
-      },
-      {
-        "name": "Baatein Ye Kabhi Na (From \"Khamoshiyan\") - Male",
-        "artist": "Jeet Gannguli",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f6d3cc20f4ca9126337d47eb",
-        "spotifyUrl": "https://open.spotify.com/track/6CV2iSJV2W6yAITDxSSes3"
-      },
-      {
-        "name": "Violent Lullaby (with Yung Lean)",
-        "artist": "BLP KOSHER",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273991035d79926cbbfca6a53ce",
-        "spotifyUrl": "https://open.spotify.com/track/7onkwQ2CVhMxrqSUNqIlh9"
-      },
-      {
-        "name": "Kahani Suno 3.0",
-        "artist": "Soumya Mukherjee",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c4dde0c8751e9ad6ed0b3879",
-        "spotifyUrl": "https://open.spotify.com/track/6NFi4Y0SwQYCDTOUv7FDZg"
-      },
-      {
-        "name": "Cose Della Vita",
-        "artist": "Tina Turner",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f38f318e862e9fa59f18e9fe",
-        "spotifyUrl": "https://open.spotify.com/track/5e3NJjtyZKBTYON4d64Bmm"
-      },
-      {
-        "name": "Kyon?",
-        "artist": "Payal Dev",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fbd0fae9f1caae310d84aacb",
-        "spotifyUrl": "https://open.spotify.com/track/5GOibPEenNQiofjxOK8iDx"
-      },
-      {
-        "name": "Coisas da Vida (Can't Stop Thinking of You)",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273dbb3075bb098af7974b845dd",
-        "spotifyUrl": "https://open.spotify.com/track/0nc7hagLvCAeRWNKIYkUXm"
-      },
-      {
-        "name": "Tune Mere Jana",
-        "artist": "Gajendra Verma",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739ab7a540b94ce87de4392a82",
-        "spotifyUrl": "https://open.spotify.com/track/4Ia7zFNzFM9xJoQdHtUodF"
-      },
-      {
-        "name": "Cose della vita (Can't Stop Thinking of You) (feat. Tina Turner)",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737a6768a5fd496466058f9e9d",
-        "spotifyUrl": "https://open.spotify.com/track/6udafPy3E7iNI8l3FUNySi"
-      },
-      {
-        "name": "S.H.E",
-        "artist": "KALAM INK",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2731283b4c2656e99de2ac00734",
-        "spotifyUrl": "https://open.spotify.com/track/4QGu8ZD18ooT6OVqNle1js"
-      },
-      {
-        "name": "Satellite",
-        "artist": "Sky Li",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e8697ebbd225ab92f7cc84b7",
-        "spotifyUrl": "https://open.spotify.com/track/4VMkM7ZdxJWic1q49Xd2Zh"
-      },
-      {
-        "name": "Doraemon Emotional (Hindi Rap)",
-        "artist": "DA REAL INSANE",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a0dcc6f0ce8afec85cad0f7f",
-        "spotifyUrl": "https://open.spotify.com/track/06spmUXkspI9nkxzAnHs8h"
-      },
-      {
-        "name": "Cose della vita (Can't Stop Thinking of You) (feat. Tina Turner)",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273dbb3075bb098af7974b845dd",
-        "spotifyUrl": "https://open.spotify.com/track/515azjxOA4JKUqPrR20jDw"
-      },
-      {
-        "name": "Ab Kise Barbaad Karogi",
-        "artist": "Altamash Faridi",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273039aa81f708bd1169e1559ac",
-        "spotifyUrl": "https://open.spotify.com/track/1dbbY27o9D35CKtRTz3bdp"
-      },
-      {
-        "name": "Ritalin",
-        "artist": "Bourgeois & Maurice",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2730da59e18e3f796165d2356b6",
-        "spotifyUrl": "https://open.spotify.com/track/5SMLfXVYiyUAU9JXOTjDN7"
-      },
-      {
-        "name": "Awari - Reprise",
-        "artist": "Semitone Music",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b6a411476d920d2c6022ea2f",
-        "spotifyUrl": "https://open.spotify.com/track/3Uc7BaqQZGfFMINxsYLko5"
-      },
-      {
-        "name": "Lost & Defeated - Live",
-        "artist": "Sarah Blasko",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273722c3ff292f34628cbaa2ba5",
-        "spotifyUrl": "https://open.spotify.com/track/7ntmvYPFdZjZIcQ74DHnT5"
-      },
-      {
-        "name": "Piya O Re Piya - Sad Version",
-        "artist": "Atif Aslam",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739546c25ac50268b2b74842e7",
-        "spotifyUrl": "https://open.spotify.com/track/2VxNdbftyfLzV9dkLAJIrl"
-      },
-      {
-        "name": "Cosas de la Vida (Can't Stop Thinking of You)",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273548f55ae3e31694d4c12dd17",
-        "spotifyUrl": "https://open.spotify.com/track/1OmW6MQe8Y192Z38BBtNQs"
-      },
-      {
-        "name": "Kahani Suno 2.0 - LoFi",
-        "artist": "Troy Grove",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27350e49706a5f5bd071d2b758d",
-        "spotifyUrl": "https://open.spotify.com/track/1yjaELwmP8RzSzAVmkzpPB"
-      },
-      {
-        "name": "Lost & Defeated",
-        "artist": "Sarah Blasko",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739a1c2b0f4f9b6040eaa19a3e",
-        "spotifyUrl": "https://open.spotify.com/track/4PWcNGcXQe5sPoQvRhR3zD"
-      },
-      {
-        "name": "Hamari Adhuri Kahani - Lofi Flip",
-        "artist": "Jay Kava",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d122ca12607455f7120c8629",
-        "spotifyUrl": "https://open.spotify.com/track/0KowF4SgBUYgcYGhpeGpQ2"
-      },
-      {
-        "name": "Cosas de la Vida (Can't Stop Thinking of You)",
-        "artist": "Eros Ramazzotti",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27395434d8266e866e7fb0d73fb",
-        "spotifyUrl": "https://open.spotify.com/track/4OcJch9ojeaKSu9Ehw6esx"
-      },
-      {
-        "name": "DEPRESSION",
-        "artist": "KALAM INK",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27395e1f0d4c9e28cc7704f5a3b",
-        "spotifyUrl": "https://open.spotify.com/track/08PbsjLAnKB8NzyrdUkAJX"
-      },
-      {
-        "name": "sober",
-        "artist": "macauley",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27324de1ece0ff6b52a76c261fd",
-        "spotifyUrl": "https://open.spotify.com/track/39JzN5PYvs6VuKcns0X22s"
-      },
-      {
-        "name": "Broken Heart 3",
-        "artist": "Nawab",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737d02422af44deb0fe9064be3",
-        "spotifyUrl": "https://open.spotify.com/track/61jhsBPcpxpmhvAcCExRvp"
-      }
-    ]
-  },
-  "travel": {
-    "count": 0,
-    "tracks": [
-      {
-        "name": "Travel Mashup",
-        "artist": "Rivansh Thakur",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735737d500a8f8f365e895bcf3",
-        "spotifyUrl": "https://open.spotify.com/track/2riZdIrZfV56gGmN93y2xI"
-      },
-      {
-        "name": "Road Trippin'",
-        "artist": "Red Hot Chili Peppers",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a9249ebb15ca7a5b75f16a90",
-        "spotifyUrl": "https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q"
-      },
-      {
-        "name": "Nazrein Milaana Nazrein Churaana",
-        "artist": "Benny Dayal",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273abf91851997179d195afab5f",
-        "spotifyUrl": "https://open.spotify.com/track/3wnahgmj1q8YvjkoXTLG8c"
-      },
-      {
-        "name": "Sooraj Dooba Hain",
-        "artist": "Amaal Mallik",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f6371011af4c82fb31d54820",
-        "spotifyUrl": "https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn"
-      },
-      {
-        "name": "Sukoon Mila",
-        "artist": "Arijit Singh",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
-        "spotifyUrl": "https://open.spotify.com/track/1cSgKCsIM5WCzlLgRkY0Ov"
-      },
-      {
-        "name": "Road Trip Mashup",
-        "artist": "Sanjith Hegde",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737361f3d3e0887bd5d42f7fcc",
-        "spotifyUrl": "https://open.spotify.com/track/3KQ0FSVNyV2B7DV9OfQxfK"
-      },
-      {
-        "name": "Road Trippin'",
-        "artist": "Dan + Shay",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273bd2de84891eed55a6a82368b",
-        "spotifyUrl": "https://open.spotify.com/track/2IOvJJrN6RajoMOd9TyGra"
-      },
-      {
-        "name": "The Ultimate Road Trip Mashup",
-        "artist": "Parmish Verma",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27366f15ee480b64d562860a1fb",
-        "spotifyUrl": "https://open.spotify.com/track/6YwV0UqQn9UGchfi0gKwLC"
-      },
-      {
-        "name": "Road Trippin'",
-        "artist": "Red Hot Chili Peppers",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
-        "spotifyUrl": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
-      },
-      {
-        "name": "Nazrein Milaana Nazrein Churaana",
-        "artist": "Benny Dayal",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27333a30749856319292a551a10",
-        "spotifyUrl": "https://open.spotify.com/track/6vGS2j6ou5AWu7wJYMQwuM"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Darius",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27310a60d9d18e24b3e369a4272",
-        "spotifyUrl": "https://open.spotify.com/track/6O2KFwDleMBLKy22Xwnny6"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Frank Allver",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e51c53dc9fcd7426a9bce51a",
-        "spotifyUrl": "https://open.spotify.com/track/1rXXf4T1FhY2j2anbk2L7c"
-      },
-      {
-        "name": "Dil Na Jaaneya - Unplugged",
-        "artist": "Arijit Singh",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
-        "spotifyUrl": "https://open.spotify.com/track/41v8xHlKWch7OMqL6215cu"
-      },
-      {
-        "name": "Road trip",
-        "artist": "WarmHugs",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734c664adc86aa58fa8f775497",
-        "spotifyUrl": "https://open.spotify.com/track/1EgJuiUV9vpZTsxQTbwJLe"
-      },
-      {
-        "name": "Road Trip",
-        "artist": "NCT 127",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273470a487ed0b104704a2e4175",
-        "spotifyUrl": "https://open.spotify.com/track/5ne3xJ1L5DMVRh3chs3sS4"
-      },
-      {
-        "name": "Time Traveller",
-        "artist": "M.I.A.",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27312688eea38599b12629a5f57",
-        "spotifyUrl": "https://open.spotify.com/track/4IlemV6RBqoeleMsPiT9t4"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Etienne Manchon",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273241c79b1489cd021e5591b18",
-        "spotifyUrl": "https://open.spotify.com/track/3eCedqtuU1JPIP97JXSt1S"
-      },
-      {
-        "name": "Road Trips",
-        "artist": "anlou",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737b9e38784ae1adbb9be61dd3",
-        "spotifyUrl": "https://open.spotify.com/track/2pB6Bn8JDeHNKX9afcCUWU"
-      },
-      {
-        "name": "Small Town Girl",
-        "artist": "Vishal-Shekhar",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a08c7022ea424b2f048b46e9",
-        "spotifyUrl": "https://open.spotify.com/track/6bRMrsjdHJ6W7zDEep3JlE"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Mysa",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738b344f1ffdee853bcd57bd60",
-        "spotifyUrl": "https://open.spotify.com/track/1ZBT51aXGp41ofMH8n0Iio"
-      },
-      {
-        "name": "Road Trip",
-        "artist": "marsquake",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273cb3fde57e091b5b49704f87c",
-        "spotifyUrl": "https://open.spotify.com/track/2deOWIkd63H0bDR5PiaXmX"
-      },
-      {
-        "name": "Na Sata (From \"Highway Love\")",
-        "artist": "Saudur",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738fe633d759d79296a431b024",
-        "spotifyUrl": "https://open.spotify.com/track/4zqSM3FthOw4OhabVdOPvr"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Sahil Musik",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273df98c1bb03e6b7a219f8f2d2",
-        "spotifyUrl": "https://open.spotify.com/track/16OFr9sIArNdqv2eeD1wDY"
-      },
-      {
-        "name": "Road Trippin'",
-        "artist": "Eddy Tyler",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d55f4c25a5e23a4a8e0fb5e0",
-        "spotifyUrl": "https://open.spotify.com/track/0imZaIb0UKgPaAYOYPxvWM"
-      },
-      {
-        "name": "Patakha Guddi (Male Version)",
-        "artist": "A.R. Rahman",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2731f4e9ecaf6913e207810093f",
-        "spotifyUrl": "https://open.spotify.com/track/7y4PpoGsedZu5QeRpIPPmV"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Mini Smiley",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273ca9ca8e8b2da3c6bf3b29f57",
-        "spotifyUrl": "https://open.spotify.com/track/1iBtmlnf9KhKDjnFFBs3kc"
-      },
-      {
-        "name": "Road Trip - Mashup Song",
-        "artist": "Sanjith Hegde",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735ba5cdb156aa0ffa935b742d",
-        "spotifyUrl": "https://open.spotify.com/track/06SXU30nogJHhDLJKqfg1m"
-      },
-      {
-        "name": "Behka",
-        "artist": "Karthik",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735b7ba7da308af447f48b9943",
-        "spotifyUrl": "https://open.spotify.com/track/0prCd0oIexRBiok6kBOeLp"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Woodson LBS",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273193f0163e93048636377681e",
-        "spotifyUrl": "https://open.spotify.com/track/4zH9xmmfR2MyWWiAkZe89V"
-      },
-      {
-        "name": "Road Trip",
-        "artist": "Four Oceans",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c37eb453bda14c7ae35977f3",
-        "spotifyUrl": "https://open.spotify.com/track/1dYQGKg95iWiHs5gtYyfbF"
-      },
-      {
-        "name": "Zindagike Safar Mein",
-        "artist": "Amruta",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737ce9eb4bb7ed2a8a5c82c249",
-        "spotifyUrl": "https://open.spotify.com/track/0KpSJAsdAa0vxX718tntg3"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Sitemap",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f4bfab25284bf96bf269b255",
-        "spotifyUrl": "https://open.spotify.com/track/2QcKUryaeEMfCDiQde6yi2"
-      },
-      {
-        "name": "Road Trip",
-        "artist": "Moai Beats",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27390c7297c8fdc3399e0af8739",
-        "spotifyUrl": "https://open.spotify.com/track/133UzPvaAGSmmNHEB6X5BC"
-      },
-      {
-        "name": "Zaalima",
-        "artist": "Arijit Singh",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
-        "spotifyUrl": "https://open.spotify.com/track/3LtSqEvVlDonz1IaW6Wn6N"
-      },
-      {
-        "name": "Road trip",
-        "artist": "fill in the _.",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f7cd1ba57b423fe0c1ee4756",
-        "spotifyUrl": "https://open.spotify.com/track/6sp5OIGBnhSTOcfUlsIr7G"
-      },
-      {
-        "name": "Road Trip - Instrumental",
-        "artist": "Anirudh Ravichander",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273398fc3cf882b5096d4951fa2",
-        "spotifyUrl": "https://open.spotify.com/track/4Nc3YyrzNSL8KdoNRPL4c9"
-      },
-      {
-        "name": "Blame The Night",
-        "artist": "Pritam",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
-        "spotifyUrl": "https://open.spotify.com/track/4L7XU3MPVDn4rHGjiXCocd"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Malacarne",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d8875f348399d8a66da99543",
-        "spotifyUrl": "https://open.spotify.com/track/2hpQiWDjuyQ42WKvVwt05l"
-      },
-      {
-        "name": "Road Trip",
-        "artist": "West 22nd",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735178c992742122b95615016c",
-        "spotifyUrl": "https://open.spotify.com/track/6G9Wgw7LtWGw3BfeAQbyPJ"
-      },
-      {
-        "name": "Long Drive (Bhangra Mix)[Remix By Dj A Sen,Dj Amann Nagpal]",
-        "artist": "Mika Singh",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27333f89bc08b2d9cda09a857a1",
-        "spotifyUrl": "https://open.spotify.com/track/4uEgkYVn0w1Pi9GkSzibbQ"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Hola Beats",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737d22e05cfa57b2f5ff09ab81",
-        "spotifyUrl": "https://open.spotify.com/track/3DHhFMajhFEO45yWSncyyd"
-      },
-      {
-        "name": "Road Trip In The Sheets",
-        "artist": "Angelicca",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734a2986581179f877e6d31736",
-        "spotifyUrl": "https://open.spotify.com/track/1U0q9RohLo9WV1oCBFzVO7"
-      },
-      {
-        "name": "Naina - DJ Nitish Gulyani Lofi Chill Mix",
-        "artist": "Pritam",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
-        "spotifyUrl": "https://open.spotify.com/track/6tgLU3rollQHM2n1TZgQZf"
-      },
-      {
-        "name": "Road trip",
-        "artist": "JonnyPlaysLive",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738c3efa0f800d19a6ff92f36f",
-        "spotifyUrl": "https://open.spotify.com/track/63ruDABfcyPEX05eoPdWJA"
-      },
-      {
-        "name": "Road Trip",
-        "artist": "Ehrling",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738a4b89ed568635b4124183f8",
-        "spotifyUrl": "https://open.spotify.com/track/1rgQcTT1rHoxnX39im3E5z"
-      },
-      {
-        "name": "Feel The Travelling Love - Safar",
-        "artist": "Abhishek Rawal",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27353a6a7eb71d374fce961f4aa",
-        "spotifyUrl": "https://open.spotify.com/track/7sefxtxRA3faUdfck8rwtk"
-      },
-      {
-        "name": "Road trip",
-        "artist": "Dj Nara S.A",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27384f05666a036e88f92d2ead6",
-        "spotifyUrl": "https://open.spotify.com/track/2ZWO87mPovJ1w3qYVll7as"
-      },
-      {
-        "name": "Road Trip",
-        "artist": "Susan Salidor",
-        "albumArt": "https://i.scdn.co/image/ab67616d0000b27321b10c0eafb9db46ffec93a0",
-        "spotifyUrl": "https://open.spotify.com/track/6DyF2MXKltjBQE5v2GtBON"
-      }
-    ]
-  },
   "calm": {
     "count": 1,
     "tracks": null
@@ -606,7 +8,7 @@
     "tracks": null
   },
   "happy": {
-    "count": 0,
+    "count": 2,
     "tracks": [
       {
         "name": "Happy Joyful Uplifting Advertising",
@@ -911,7 +313,7 @@
     ]
   },
   "angry": {
-    "count": 1,
+    "count": 2,
     "tracks": null
   },
   "anxious": {
@@ -919,7 +321,308 @@
     "tracks": null
   },
   "energetic": {
-    "count": 2,
-    "tracks": null
+    "count": 1,
+    "tracks": [
+      {
+        "name": "Pumped",
+        "artist": "Corner Pockets",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273aea23e31f64081b2091c8434",
+        "spotifyUrl": "https://open.spotify.com/track/5bqK1q81L6LsDuVBaERGTE"
+      },
+      {
+        "name": "Everything Stay In The Past",
+        "artist": "Rebel Eye",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738abd2353fd5fce13bcd115b9",
+        "spotifyUrl": "https://open.spotify.com/track/2wACkvmEyir6nnL96ymRMh"
+      },
+      {
+        "name": "Sultan - Workout Remix",
+        "artist": "Vishal-Shekhar",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27364d1948f04c95e3ab8935c2f",
+        "spotifyUrl": "https://open.spotify.com/track/6ZJX3FWzXqGruGjqUXPFbg"
+      },
+      {
+        "name": "Pumped Up",
+        "artist": "Cardio Hits! Workout",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d30aa368fbce7fe93124455b",
+        "spotifyUrl": "https://open.spotify.com/track/0qG9uKH69RhLw2YIu48wIj"
+      },
+      {
+        "name": "Mami El Negro",
+        "artist": "Dj Laz",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739b858928316adc80213e3b72",
+        "spotifyUrl": "https://open.spotify.com/track/4Uz6lWfjLKYkCXWVZbxcTB"
+      },
+      {
+        "name": "Fight Back",
+        "artist": "EBEN",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27358e4a20281a75f39d34d007c",
+        "spotifyUrl": "https://open.spotify.com/track/2zoTrABJrTLpDmt403PXUQ"
+      },
+      {
+        "name": "Mami El Negro",
+        "artist": "Dj Laz",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e4750fac7bdd14a7f0596fa0",
+        "spotifyUrl": "https://open.spotify.com/track/6RG0MRIM3KCPjfGNepFZq2"
+      },
+      {
+        "name": "ADRENALINE",
+        "artist": "SXNSTXRM",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732be9552e8a372da6f3444449",
+        "spotifyUrl": "https://open.spotify.com/track/7z9LbcBv4fcvsvGfZ8CgtY"
+      },
+      {
+        "name": "Mami El Negro",
+        "artist": "Dj Laz",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c2b41b7e925fd869e8abf974",
+        "spotifyUrl": "https://open.spotify.com/track/1wERNTYFse2J4G6rt2ORxw"
+      },
+      {
+        "name": "War Zone",
+        "artist": "Unknown Brain",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739182a0eb66426aacb95b27dc",
+        "spotifyUrl": "https://open.spotify.com/track/134KuDqugUFSbDUk0kZmLk"
+      },
+      {
+        "name": "Mami El Negro",
+        "artist": "Dj Laz",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c2b41b7e925fd869e8abf974",
+        "spotifyUrl": "https://open.spotify.com/track/7iCGmFLqg0BjocDcOYvLW2"
+      },
+      {
+        "name": "MONTAGEM - PR FUNK - Kiraw Remix",
+        "artist": "Kiraw",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2733b91951d36ae6f3a086c9653",
+        "spotifyUrl": "https://open.spotify.com/track/2EaS3WnOa9grF2QFTtFb5D"
+      },
+      {
+        "name": "Mami El Negro",
+        "artist": "Dj Laz",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f0f85e4871842b954b3bc5d2",
+        "spotifyUrl": "https://open.spotify.com/track/6rivx343Df7N1MR7FFGOIm"
+      },
+      {
+        "name": "Ultimate Workout Anthem Non-Stop Mashup",
+        "artist": "Sachet Tandon",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736e2658ed25495205901fd9df",
+        "spotifyUrl": "https://open.spotify.com/track/6XzS2jm9kpl74sqhh7nnQ0"
+      },
+      {
+        "name": "Mami El Negro",
+        "artist": "Dj Laz",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f0f85e4871842b954b3bc5d2",
+        "spotifyUrl": "https://open.spotify.com/track/3jOVfY43e6lZ31brfdfS1d"
+      },
+      {
+        "name": "La La La",
+        "artist": "Shashwat Sachdev",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273067085a16d57908007b5595f",
+        "spotifyUrl": "https://open.spotify.com/track/3wfsF1SGQ6btNJFSSFUWQe"
+      },
+      {
+        "name": "Topsecret",
+        "artist": "Rapsta",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d35f6adb3f291c6414beb6f7",
+        "spotifyUrl": "https://open.spotify.com/track/6sl6yem0ar9f74SdYLwQVu"
+      },
+      {
+        "name": "Punjabi Workout Mashup Vol-2",
+        "artist": "Sidhu Moose Wala",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736daed8a38839bb8600873c09",
+        "spotifyUrl": "https://open.spotify.com/track/4dffVlSKpQhLqYQ7BFSHFo"
+      },
+      {
+        "name": "Topsecret",
+        "artist": "Rapsta",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2733929e27c445d7d06983486e9",
+        "spotifyUrl": "https://open.spotify.com/track/45yRBg0LwX29IwxPdWsD6q"
+      },
+      {
+        "name": "Rage",
+        "artist": "Paaus",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273dbcb9b9c0de3a96f26a9b800",
+        "spotifyUrl": "https://open.spotify.com/track/1YgjYRt6PchrL1ujDAbc6P"
+      },
+      {
+        "name": "Games Females Play",
+        "artist": "Kwaj",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2733eccbbdba23305252fee6484",
+        "spotifyUrl": "https://open.spotify.com/track/5fvdSHa2dPg1V5C8vaoOUG"
+      },
+      {
+        "name": "Run",
+        "artist": "Artizan",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27353562faf3d4c39fe9eb62d97",
+        "spotifyUrl": "https://open.spotify.com/track/0fjl3h9x07eoE7BLuok3CB"
+      },
+      {
+        "name": "Hello Black Ops 3 (From Nerd Out!)",
+        "artist": "BenSchullerMusic",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738e991f76432ff2a0368f3e8e",
+        "spotifyUrl": "https://open.spotify.com/track/0ZEI4wyERM5XFxH9abtIQ6"
+      },
+      {
+        "name": "Gym Boyz",
+        "artist": "King Kaazi",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e41f25f8289dd729c6f2f29d",
+        "spotifyUrl": "https://open.spotify.com/track/66v9etDiQY07fhZEF0tzC5"
+      },
+      {
+        "name": "Kod",
+        "artist": "Munawar Faruqui",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2732bb9b6dd9fc325fa2b9c7494",
+        "spotifyUrl": "https://open.spotify.com/track/4xfPATQfNZx8ZBJCobBOxP"
+      },
+      {
+        "name": "Adheera",
+        "artist": "Vikram Montrose",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27334ac3dbb0f68e28290f9ba96",
+        "spotifyUrl": "https://open.spotify.com/track/7eMXsEEpbg249rtORcuLiy"
+      },
+      {
+        "name": "125, Pt. 1 (The Bio)",
+        "artist": "Joell Ortiz",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27307fd33752d8514e5999f27b2",
+        "spotifyUrl": "https://open.spotify.com/track/7Jm5WYUh6A0BHBFhZxKY9R"
+      },
+      {
+        "name": "Gym Motivation",
+        "artist": "Best Workout Music",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a98c52bb25ebb31e47d25b54",
+        "spotifyUrl": "https://open.spotify.com/track/44mGhplvTxr9Py9o2OPaav"
+      },
+      {
+        "name": "Kill or Be Killed",
+        "artist": "Do Or Die",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fcd19618b6ee78b6921ee498",
+        "spotifyUrl": "https://open.spotify.com/track/6u39G7p04JUwBkW5fSadG3"
+      },
+      {
+        "name": "Thuninju Vettuven",
+        "artist": "Abhishek Nailwal",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d7c2f018171a746680880588",
+        "spotifyUrl": "https://open.spotify.com/track/5rPE0LnMzVIvwN2hyO3nj8"
+      },
+      {
+        "name": "Right Now",
+        "artist": "EPMD",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2730072813c4e4c1dbcf7ef7e87",
+        "spotifyUrl": "https://open.spotify.com/track/4E76xvAWOy395F65jLdfmH"
+      },
+      {
+        "name": "Remember The Name",
+        "artist": "EBEN",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735f0917c49a312b9e9f48153d",
+        "spotifyUrl": "https://open.spotify.com/track/5YMsiF90n7goW39h3QA31p"
+      },
+      {
+        "name": "LOVE MUMBLE",
+        "artist": "Agsy",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273298950b8e7e22a09c4b37584",
+        "spotifyUrl": "https://open.spotify.com/track/5G96XNSYZZqy3hfTHipBKb"
+      },
+      {
+        "name": "Crazy Now",
+        "artist": "Shashwat Sachdev",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273067085a16d57908007b5595f",
+        "spotifyUrl": "https://open.spotify.com/track/1vtZcYOBnTRmpGXWnDBv63"
+      },
+      {
+        "name": "Fous-moi le camp",
+        "artist": "Uzi Freyja",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273986668478e5e8327a0e3d952",
+        "spotifyUrl": "https://open.spotify.com/track/7c5tIFpyKZ4IhHANEkJLJL"
+      },
+      {
+        "name": "Punjabi Workout Mashup Vol-5",
+        "artist": "Dc",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273feebb220950031b0d0959a0e",
+        "spotifyUrl": "https://open.spotify.com/track/7GDBDOGEyx7WbQrazZCywt"
+      },
+      {
+        "name": "Good Luck With That",
+        "artist": "Mike G",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739dc4d3a066d61d2449d7a602",
+        "spotifyUrl": "https://open.spotify.com/track/2tF07XB1QEiB2E29Xqlzq5"
+      },
+      {
+        "name": "Sicko Mode",
+        "artist": "Lakros",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273984392ee1361402320e5af8a",
+        "spotifyUrl": "https://open.spotify.com/track/54USgvLpge1BSwS8mIM8Vn"
+      },
+      {
+        "name": "LOVE MUMBLE",
+        "artist": "Agsy",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735d2ad95abf9db42c4af7a775",
+        "spotifyUrl": "https://open.spotify.com/track/64ojSWneYaXvX6YLtnVGT3"
+      },
+      {
+        "name": "Get Better",
+        "artist": "Lucha",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b3e2e0e6123b04ea67362a19",
+        "spotifyUrl": "https://open.spotify.com/track/3VYfi7rg9yvSgaEjnfmdLR"
+      },
+      {
+        "name": "rose quartz",
+        "artist": "plxntkid",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b62f360399f1c44f550f51f0",
+        "spotifyUrl": "https://open.spotify.com/track/7tP9PsMkx9SF8mP3bGFea4"
+      },
+      {
+        "name": "Treason",
+        "artist": "Lucha",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736523bb25f37e2d505de268bf",
+        "spotifyUrl": "https://open.spotify.com/track/1LuTNatHXw1S4GWl6IrMfh"
+      },
+      {
+        "name": "Kill or Be Killed",
+        "artist": "Do Or Die",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273ecf915d69407519066932586",
+        "spotifyUrl": "https://open.spotify.com/track/71uDDA2M8yWySVteN6uAyC"
+      },
+      {
+        "name": "Astronaut In The Ocean",
+        "artist": "Requenze",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2731233529a66540dc2f361069e",
+        "spotifyUrl": "https://open.spotify.com/track/59QEYGBUuWFo10WeTvxxEu"
+      },
+      {
+        "name": "La Grieta Session, Vol. 4",
+        "artist": "La Grieta Session",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b341c91b9d898096eb81973e",
+        "spotifyUrl": "https://open.spotify.com/track/5oXvVXrqyKHeAgn8nLsp6u"
+      },
+      {
+        "name": "Paradise",
+        "artist": "HyperJim",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d300335b47ab975d8fd7cdd2",
+        "spotifyUrl": "https://open.spotify.com/track/2e32eo2zVW2mWFeYy3aeLQ"
+      },
+      {
+        "name": "Kill or Be Killed",
+        "artist": "Do Or Die",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273964415dda57362ee8683b602",
+        "spotifyUrl": "https://open.spotify.com/track/0BTnRBvQBiJWIGKzmon9lA"
+      },
+      {
+        "name": "Kukkad (From \"Student of the Year\") - 139 BPM",
+        "artist": "Vishal-Shekhar",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e5dbe42fb2a4116bf6cbe8e6",
+        "spotifyUrl": "https://open.spotify.com/track/59eQ2EL5JegmmCiLozs3kI"
+      },
+      {
+        "name": "Kill or Be Killed",
+        "artist": "Do Or Die",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a05553d524b57e7b9d1c39f5",
+        "spotifyUrl": "https://open.spotify.com/track/4qbIxTcFziuTenWhq8CDDc"
+      },
+      {
+        "name": "Wild",
+        "artist": "HYPRFOCUS",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b796cdc8ca7946496201feb2",
+        "spotifyUrl": "https://open.spotify.com/track/346N1Pn3Llol3yq6YDdMtV"
+      }
+    ]
   }
 }
