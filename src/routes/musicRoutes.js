@@ -9,7 +9,7 @@ musicRouter.get('/api/suggest-songs/:mood',suggestSongsByMood);//suggest songs b
 musicRouter.post('/api/suggest-songs-by-text',suggestSongsByText);//suggest songs based on text language artist year etc
 musicRouter.get('/api/get-tracks',getTracks);//get random tracks
 musicRouter.post('/api/add-artists',addArtists);//add artists
-musicRouter.get('/api/get-popular-moods',getPopularMoods)
-musicRouter.delete('/api/clear-mood-cache/:mood',clearMoodCache);
+musicRouter.get('/api/get-popular-moods',getPopularMoods)//get the most popular moods added by user
+musicRouter.delete('/api/clear-mood-cache/:mood',clearMoodCache);// delete the song data from the cache 
 
 export default musicRouter;

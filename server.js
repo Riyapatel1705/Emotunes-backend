@@ -18,7 +18,7 @@ Sentry.init({
 });
 
 app.use(Sentry.Handlers.requestHandler());
-app.use(cors({ origin: 'http://localhost:3000' }));
+app.use(cors({ origin: 'https://emo-tunes.vercel.app/' }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
