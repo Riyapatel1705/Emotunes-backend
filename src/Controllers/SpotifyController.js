@@ -13,6 +13,7 @@ const sentiment=new Sentiment();
 
 const songCache=loadCacheFromFile()||{};
 const moodAnalytics={};
+const searchHistory=[];
 
 
 //get the mood from the text [optional]
@@ -91,8 +92,8 @@ export const suggestSongsByMood = async (req, res) => {
           q: query,
           type: "track",
           limit: req.query.limit || 10,
-          offset: req.query.offset || 0
-          ,market: "IN"
+          offset: req.query.offset || 0,
+          market: "IN"
         }
       });
   
@@ -162,6 +163,7 @@ export const suggestSongsByText = async (req, res) => {
       if (!text) {
         return res.status(400).json({ message: "Please provide a text" });
       }
+      searchHistory.push({text});
   
       const detectedMood = detectMood(text);
       // Only allow moods other than neutral
@@ -199,7 +201,7 @@ if (
           q: finalQuery,
           type: "track",
           limit: req.query.limit || 10,
-        offset: req.query.offset || 0,
+          offset: req.query.offset || 0,
           market: "IN"
         }
       });
@@ -486,3 +488,13 @@ export const getPopularMoods = (req, res) => {
     }
   };
   
+
+  //display search history
+  export const getSearchHistory=async(req,res)=>{
+    try{
+        const history=searchHistory.slice(-5);
+        return res.status(200).json({history});
+    }catch(err){
+        return res.status(500).jsoN({message:"Internal server error"})
+    }
+  }

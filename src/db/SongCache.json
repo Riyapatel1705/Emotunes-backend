@@ -1,14 +1,136 @@
 {
   "calm": {
     "count": 1,
-    "tracks": null
+    "tracks": [
+      {
+        "name": "Relaxing Lofi for Easy Days",
+        "artist": "Otaku Muisc",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27304b1f79b783a834e55186391",
+        "spotifyUrl": "https://open.spotify.com/track/0MJvmZcq4wDThVkJi0Q54H"
+      },
+      {
+        "name": "2:22",
+        "artist": "fr444n*",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b57147a358b1131cccd3a221",
+        "spotifyUrl": "https://open.spotify.com/track/6gc80RUuAHJkl9wokOTPHG"
+      },
+      {
+        "name": "Serene Echoes",
+        "artist": "Lowfly",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738e6001faab48dca9853fbafb",
+        "spotifyUrl": "https://open.spotify.com/track/6upPJI013P4QhHMOQuILEw"
+      },
+      {
+        "name": "Lofi Music for a Relaxing Escape",
+        "artist": "Otaku Muisc",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27304b1f79b783a834e55186391",
+        "spotifyUrl": "https://open.spotify.com/track/6xb14p7KbTqc8uc4KifV06"
+      },
+      {
+        "name": "Lofi Chill Beats",
+        "artist": "Malmö 040",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a415a3faef9b377675c7e765",
+        "spotifyUrl": "https://open.spotify.com/track/6K3mUmOx4bUfqCjz6awAid"
+      },
+      {
+        "name": "Relaxing Lo-fi Tunes",
+        "artist": "Lowfly",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738d24af0261af879d3cafa2c4",
+        "spotifyUrl": "https://open.spotify.com/track/2sCkuw5uBbWqU4qQGGvE1z"
+      },
+      {
+        "name": "Relaxing LoFi Beat",
+        "artist": "Lofi Sleep Chill & Study",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27385f4287b776c16063b114b25",
+        "spotifyUrl": "https://open.spotify.com/track/1mJ9oAPuo3hHspOYamtoYc"
+      },
+      {
+        "name": "Leere Flaschen Volle Köpfe",
+        "artist": "Kuba M.",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a1c26db7a9213a06e1ad7f5b",
+        "spotifyUrl": "https://open.spotify.com/track/4nVXBjtrAZpD14KlTSufxc"
+      },
+      {
+        "name": "Cozy Evening Lo-fi",
+        "artist": "Lowfly",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f042a6d958b6006b8e36bee7",
+        "spotifyUrl": "https://open.spotify.com/track/7aKuYBZL73LYphkzymzpNW"
+      },
+      {
+        "name": "Relaxing Lofi Jazz Sessions",
+        "artist": "Instrumental Jazz Music Ambient",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2730c5ad62e70d7aec828231dd1",
+        "spotifyUrl": "https://open.spotify.com/track/6gL4lkcPNRkKjKPB8U74ea"
+      }
+    ]
   },
   "motivation": {
-    "count": 1,
-    "tracks": null
+    "count": 5,
+    "tracks": [
+      {
+        "name": "The Omni",
+        "artist": "Keep Of Kalessin",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734025a4176cfcaddb10d40eda",
+        "spotifyUrl": "https://open.spotify.com/track/7h4MhlaHUunvOhivVYYxLm"
+      },
+      {
+        "name": "Rise Of Sultan",
+        "artist": "Vishal-Shekhar",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b2abfd2439b6c23c3664df87",
+        "spotifyUrl": "https://open.spotify.com/track/5Byhl7uKwvfxFIcyNqcObU"
+      },
+      {
+        "name": "Sorcery Fight!",
+        "artist": "Breeton Boi",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273063124ccdbfba3f0852f06e1",
+        "spotifyUrl": "https://open.spotify.com/track/3KHQQuZGyk1wve6SQwifwt"
+      },
+      {
+        "name": "Tu Ruke Na",
+        "artist": "Anyme",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f9f7922703c283c30e641a56",
+        "spotifyUrl": "https://open.spotify.com/track/1iRNt2jKoPtVKquEaFseG1"
+      },
+      {
+        "name": "POW3R",
+        "artist": "EMANI ETRNL",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27321110eaa8416581bdbd8508c",
+        "spotifyUrl": "https://open.spotify.com/track/7y3fIYNAGD7HcvlUx70XZF"
+      },
+      {
+        "name": "Victory - Instrumental",
+        "artist": "Shankar-Ehsaan-Loy",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273441b53722d32e65078a35a14",
+        "spotifyUrl": "https://open.spotify.com/track/0k7Jl4wxnWZpsFsMOyr9Li"
+      },
+      {
+        "name": "Build Your Legacy",
+        "artist": "Smartzee",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735fb3d246473ea611347b36d9",
+        "spotifyUrl": "https://open.spotify.com/track/0j7RegrNawMtKFtEXHdSVW"
+      },
+      {
+        "name": "Panga",
+        "artist": "Harshdeep Kaur",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b9d58c3e248b39ce9f3a5bf7",
+        "spotifyUrl": "https://open.spotify.com/track/5cVgVcgypkDMYLWyZ8TGrI"
+      },
+      {
+        "name": "Get Up Stand Up - Live",
+        "artist": "Public Enemy",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273328a67d45260361bace95066",
+        "spotifyUrl": "https://open.spotify.com/track/6RrDdhDuZ2eJ2W3M1Epgn7"
+      },
+      {
+        "name": "Theme Of Miss India",
+        "artist": "Harika Narayan",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734aa0357922f7cabfc2e3e346",
+        "spotifyUrl": "https://open.spotify.com/track/6NAndQM7IUivDcExlLaxzp"
+      }
+    ]
   },
   "happy": {
-    "count": 2,
+    "count": 25,
     "tracks": [
       {
         "name": "Happy Joyful Uplifting Advertising",
@@ -313,15 +435,137 @@
     ]
   },
   "angry": {
-    "count": 2,
-    "tracks": null
+    "count": 3,
+    "tracks": [
+      {
+        "name": "This That Metal x Angry No. 0 Type Beat",
+        "artist": "no. 0",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2731c72156487136e85be0f63d4",
+        "spotifyUrl": "https://open.spotify.com/track/3LXNBl5hzoYvF1d0lX7xjC"
+      },
+      {
+        "name": "Suffocated to Death by God’s Shadow",
+        "artist": "Necro",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c606a5af9e01f4d79345d402",
+        "spotifyUrl": "https://open.spotify.com/track/1xrqbMdAxzjUEzJ01V8MaE"
+      },
+      {
+        "name": "Angry Again",
+        "artist": "Megadeth",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d408b2375e0ca6362c968d0f",
+        "spotifyUrl": "https://open.spotify.com/track/3CI1JP2ooMBSFjIy1u6Yrc"
+      },
+      {
+        "name": "Suffocated to Death By God's Shadow",
+        "artist": "Necro",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736078086388247cfa0f557357",
+        "spotifyUrl": "https://open.spotify.com/track/5tVFVR596hPHpTQwTFxRTo"
+      },
+      {
+        "name": "RAGE",
+        "artist": "scraizis",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273771d30354bb0c36fe3539cf7",
+        "spotifyUrl": "https://open.spotify.com/track/52OWRufMrpxRcv3Sy97A42"
+      },
+      {
+        "name": "Suffocated to Death By God's Shadow",
+        "artist": "Necro",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c05ad4d544b3fd285608943a",
+        "spotifyUrl": "https://open.spotify.com/track/2awpR4ihPqCirva5HYqdQv"
+      },
+      {
+        "name": "CRABS IN A BUCKET",
+        "artist": "Dymbur",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273745012f244edb4f18ea224b3",
+        "spotifyUrl": "https://open.spotify.com/track/09H5mIqat2kAyYGrVLAQ8t"
+      },
+      {
+        "name": "We’re Not Angry, We Declare Fucking War",
+        "artist": "Venomous Sin",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2730667411be5daa3b00a42df4b",
+        "spotifyUrl": "https://open.spotify.com/track/4bkusVpileHJjEM8zdGAD4"
+      },
+      {
+        "name": "Guts Rage",
+        "artist": "ENDUZIX",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b248aa76a626685d51741c33",
+        "spotifyUrl": "https://open.spotify.com/track/459vDlgwrK0IQRHWdsbKpT"
+      },
+      {
+        "name": "God's Plan",
+        "artist": "Mother Mother",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273415623894d507d8f0dfc6b56",
+        "spotifyUrl": "https://open.spotify.com/track/6ZIcUAsRyPk7KDzOzzJ5Gd"
+      }
+    ]
   },
   "anxious": {
     "count": 1,
-    "tracks": null
+    "tracks": [
+      {
+        "name": "Calm Cat",
+        "artist": "Stress Reducing Music For Cats",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27342255ab8604f089404d8f5ef",
+        "spotifyUrl": "https://open.spotify.com/track/0vnW6ibWgk4sH3ApmnynIj"
+      },
+      {
+        "name": "Stress Relief",
+        "artist": "Gorgorod Legends",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27379792b5eafbd5374c0a177e4",
+        "spotifyUrl": "https://open.spotify.com/track/0f5jPLDkLbRRf6nYbl94UO"
+      },
+      {
+        "name": "432 Hz Anxiety Relief",
+        "artist": "Music Body and Spirit",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27354ab961bfc2369a04f624cbc",
+        "spotifyUrl": "https://open.spotify.com/track/2AI0s9ePJRZwkoSMtH5AUp"
+      },
+      {
+        "name": "Cat Sleeping Music",
+        "artist": "Stress Reducing Music For Cats",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273411bd70fa185d0939d9fe881",
+        "spotifyUrl": "https://open.spotify.com/track/7BY3zTplbRdtcfWIDHYLea"
+      },
+      {
+        "name": "Lavender",
+        "artist": "xooos",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e92ed2f58a83445d2ea49fab",
+        "spotifyUrl": "https://open.spotify.com/track/4oxc5Lz9H3tIMHysslnTLG"
+      },
+      {
+        "name": "417 Hz Stress Relief",
+        "artist": "Mindly",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738830ae6f727b59ab5135fc56",
+        "spotifyUrl": "https://open.spotify.com/track/3cDMejyz37gXoit7NUQvRh"
+      },
+      {
+        "name": "Gentle Songs for Cats",
+        "artist": "Stress Reducing Music For Cats",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273411bd70fa185d0939d9fe881",
+        "spotifyUrl": "https://open.spotify.com/track/7LT0nrjdgxvB8bSS48nt4P"
+      },
+      {
+        "name": "Call Melanin",
+        "artist": "Kobi Jonz",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273ae2ad869224040c19d06b432",
+        "spotifyUrl": "https://open.spotify.com/track/7u4rtLutaP41FJs5dva48a"
+      },
+      {
+        "name": "396 Hz Relieve Anxiety",
+        "artist": "Feed Your Soul",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273b6e5eb7c7713693663d1c53c",
+        "spotifyUrl": "https://open.spotify.com/track/1E6InSRft4lrOv6QeIjLYA"
+      },
+      {
+        "name": "Relaxing Cat Music",
+        "artist": "Stress Reducing Music For Cats",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273411bd70fa185d0939d9fe881",
+        "spotifyUrl": "https://open.spotify.com/track/0ZmAOKlvuyZOOjB8UupUjF"
+      }
+    ]
   },
   "energetic": {
-    "count": 1,
+    "count": 3,
     "tracks": [
       {
         "name": "Pumped",
@@ -622,6 +866,195 @@
         "artist": "HYPRFOCUS",
         "albumArt": "https://i.scdn.co/image/ab67616d0000b273b796cdc8ca7946496201feb2",
         "spotifyUrl": "https://open.spotify.com/track/346N1Pn3Llol3yq6YDdMtV"
+      }
+    ]
+  },
+  "sad": {
+    "count": 6,
+    "tracks": [
+      {
+        "name": "FATHER FORGIVE ME",
+        "artist": "k.xxiv",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273ac3b476bef323cce655594f5",
+        "spotifyUrl": "https://open.spotify.com/track/5YQWN366ZKJzFljJegZGml"
+      },
+      {
+        "name": "Uska Hi Banana (From \"1920 Evil Returns\")",
+        "artist": "Arijit Singh",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c486f7fc6299f158d632e613",
+        "spotifyUrl": "https://open.spotify.com/track/3h6Xvd0lISog6GxTk4X6MK"
+      },
+      {
+        "name": "Let It Ring",
+        "artist": "Bangers Only",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27344ff3b4fd8c8ceceb54a4929",
+        "spotifyUrl": "https://open.spotify.com/track/7dqagHzpQG2Q83ebCIYjEx"
+      },
+      {
+        "name": "Jo Tu Na Mila",
+        "artist": "Asim Azhar",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e50a6d11c72c3c11c134e5a0",
+        "spotifyUrl": "https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS"
+      },
+      {
+        "name": "You Don't Have To Cry",
+        "artist": "Ms. Dynamite",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2739f833600612e0389d0cb13c8",
+        "spotifyUrl": "https://open.spotify.com/track/4KYv46pm2eRgrsjhjpnW1a"
+      },
+      {
+        "name": "Baatein Ye Kabhi Na - Male",
+        "artist": "Jeet Gannguli",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2738d07544fddf5b7d9a1e41554",
+        "spotifyUrl": "https://open.spotify.com/track/0PxMHdQ6bSz9q0eJj3kJzb"
+      },
+      {
+        "name": "You Don't Have To Cry",
+        "artist": "Ms. Dynamite",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273048ba16a363b2c5be656cfd2",
+        "spotifyUrl": "https://open.spotify.com/track/6uLYBPXw7sW9RRAzZNA0Cl"
+      },
+      {
+        "name": "Hawayein (From \"Jab Harry Met Sejal\")",
+        "artist": "Pritam",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2730f29b052ea18eb757ec7ca9a",
+        "spotifyUrl": "https://open.spotify.com/track/6871FKHumiy1Wfr6vF7Xxt"
+      },
+      {
+        "name": "Let It Ring",
+        "artist": "Bangers Only",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273c16493f5db88278b3e90c2dc",
+        "spotifyUrl": "https://open.spotify.com/track/3BcF8GY1yFdUcszcr2voQ6"
+      },
+      {
+        "name": "Aashiqui (The Love Theme)",
+        "artist": "Mithoon",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2736404721c1943d5069f0805f3",
+        "spotifyUrl": "https://open.spotify.com/track/0TEZDqtGjqPwcaFx3Mzpbz"
+      }
+    ]
+  },
+  "travel": {
+    "count": 0,
+    "tracks": [
+      {
+        "name": "Travel Mashup",
+        "artist": "Rivansh Thakur",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2735737d500a8f8f365e895bcf3",
+        "spotifyUrl": "https://open.spotify.com/track/2riZdIrZfV56gGmN93y2xI"
+      },
+      {
+        "name": "Road Trippin'",
+        "artist": "Red Hot Chili Peppers",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273a9249ebb15ca7a5b75f16a90",
+        "spotifyUrl": "https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q"
+      },
+      {
+        "name": "Nazrein Milaana Nazrein Churaana",
+        "artist": "Benny Dayal",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273abf91851997179d195afab5f",
+        "spotifyUrl": "https://open.spotify.com/track/3wnahgmj1q8YvjkoXTLG8c"
+      },
+      {
+        "name": "Sooraj Dooba Hain",
+        "artist": "Amaal Mallik",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f6371011af4c82fb31d54820",
+        "spotifyUrl": "https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn"
+      },
+      {
+        "name": "Sukoon Mila",
+        "artist": "Arijit Singh",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
+        "spotifyUrl": "https://open.spotify.com/track/1cSgKCsIM5WCzlLgRkY0Ov"
+      },
+      {
+        "name": "Road Trip Mashup",
+        "artist": "Sanjith Hegde",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737361f3d3e0887bd5d42f7fcc",
+        "spotifyUrl": "https://open.spotify.com/track/3KQ0FSVNyV2B7DV9OfQxfK"
+      },
+      {
+        "name": "Road Trippin'",
+        "artist": "Dan + Shay",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273bd2de84891eed55a6a82368b",
+        "spotifyUrl": "https://open.spotify.com/track/2IOvJJrN6RajoMOd9TyGra"
+      },
+      {
+        "name": "The Ultimate Road Trip Mashup",
+        "artist": "Parmish Verma",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27366f15ee480b64d562860a1fb",
+        "spotifyUrl": "https://open.spotify.com/track/6YwV0UqQn9UGchfi0gKwLC"
+      },
+      {
+        "name": "Road Trippin'",
+        "artist": "Red Hot Chili Peppers",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+        "spotifyUrl": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
+      }
+    ]
+  },
+  "romantic": {
+    "count": 0,
+    "tracks": [
+      {
+        "name": "Unchained Melody",
+        "artist": "London Pops Orchestra",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d5116aa2e157bb673c077257",
+        "spotifyUrl": "https://open.spotify.com/track/7MQuFRN1pgFkNrIygPTxZt"
+      },
+      {
+        "name": "Let It Roll",
+        "artist": "Talib Kweli",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273d924da606e2f4895bdc1df88",
+        "spotifyUrl": "https://open.spotify.com/track/5gLOYR5kBSB38fmQ1c9BBc"
+      },
+      {
+        "name": "Jab Tak",
+        "artist": "Armaan Malik",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2733f334dbf565ef4b341d36fd4",
+        "spotifyUrl": "https://open.spotify.com/track/1im9BMeeKze7rkBPIEpCUr"
+      },
+      {
+        "name": "Deep Melody",
+        "artist": "Sleep Better Tonight",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273efd58c75de6da78307418f56",
+        "spotifyUrl": "https://open.spotify.com/track/5w6TAjSKf8Mgi2xntRZ93o"
+      },
+      {
+        "name": "Let It Roll",
+        "artist": "Talib Kweli",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273abf17d3864320041bfb73ac0",
+        "spotifyUrl": "https://open.spotify.com/track/5W2xGAdojvhXQjpnDJWc4s"
+      },
+      {
+        "name": "Romantic - LoFi Flip",
+        "artist": "Dj Vicky Belgaum",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b27357d69b3bddf66b94b66d4e2e",
+        "spotifyUrl": "https://open.spotify.com/track/64795RjPIb87Aa8clGWyc5"
+      },
+      {
+        "name": "Soft Guitar Melody",
+        "artist": "Romantic Piano Ambient",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273e6eef81b8f6a6a5a755d0382",
+        "spotifyUrl": "https://open.spotify.com/track/7nsueVeHGBwRX7EcoxodZ8"
+      },
+      {
+        "name": "Something Devine",
+        "artist": "Sam Ock",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2737c617a17eb0072551f69d806",
+        "spotifyUrl": "https://open.spotify.com/track/0AO2M7L6llOdox0rbpqioQ"
+      },
+      {
+        "name": "Unnale (Love Theme)",
+        "artist": "G. V. Prakash",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273fc268722fcebb418e803b1d5",
+        "spotifyUrl": "https://open.spotify.com/track/1pdu0m9X9C9Lp4MA5OhWHu"
+      },
+      {
+        "name": "Soft Calm Romantic Piano Love",
+        "artist": "Danny Reed",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b273f24d75e3653087a145157844",
+        "spotifyUrl": "https://open.spotify.com/track/1jUlJAGlaZDeSibY6f7NeQ"
       }
     ]
   }
